@@ -1,17 +1,13 @@
-<center>
+<h2 align="center">🔥 Doom Fire 🔥</h2>
 
-## 🔥 Doom Fire 🔥
-
-### Doom fire algorithm using only javascript
+<h4 align="center">Doom fire algorithm using only javascript</h4>
 
 <br/>
-<img src="fire.gif">
+<div align="center">
+  <img align="center" src="fire.gif">
+</div>
 
-</center>
-
-<br/>
-
-## 📖 About the project
+### 📖 About the project
 
 This project aims to implement the fire algorithm used in doom, using only javascript with data structure concepts, inspired by Filipe Deschamps' video on [youtube](https://www.youtube.com/watch?v=HCjDjsHPOco&ab_channel=FilipeDeschamps).
 
